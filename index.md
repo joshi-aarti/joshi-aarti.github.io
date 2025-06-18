@@ -6,7 +6,11 @@ author_profile: false
 classes: wide
 ---
 
-<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap-reverse;">
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+
+<div style="flex: 0 0 40%; max-width: 100%;">
+  <img src="/assets/images/me.jpg" alt="Aarti Joshi" style="width: 100%; border-radius: 12px;" />
+</div>
 
 <div style="flex: 1;">
   <h2>Hello, I'm Aarti!</h2>
@@ -17,10 +21,6 @@ classes: wide
   <p>
     This site is where I share tutorials, projects, and thoughts from my journey through tech.
   </p>
-</div>
-
-<div style="flex: 0 0 250px;">
-  <img src="/assets/images/me.jpg" alt="Aarti Joshi" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
 </div>
