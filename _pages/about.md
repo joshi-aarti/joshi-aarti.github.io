@@ -4,10 +4,6 @@ permalink: /about/
 layout: single
 ---
 
-Here’s your updated **“About Me”** section with a professional call-to-action and contact details included at the end:
-
----
-
 Hi! I’m Arati, a passionate cloud platform engineer with a strong background in designing scalable, secure, and automated infrastructure solutions across **Azure and AWS**. I have extensive experience working with **Spring Boot** for backend systems and **Python** for automation, scripting, and data-driven applications.
 
 Over the years, I’ve taken on roles as a **DevOps engineer**, **solution architect**, and **platform enabler**, building internal frameworks and self-service tools that help engineering teams ship faster and more reliably. I’m also an **AI enthusiast**, exploring how machine learning and generative AI can be applied to platform automation, support workflows, and cloud intelligence.
