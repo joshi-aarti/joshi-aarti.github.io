@@ -14,12 +14,4 @@ This site is a space where I share insights, tutorials, and reflections from my 
 
 ---
 
-### 📬 Let’s Connect
 
-* 📧 Email: [joshi.arati.12@gmail.com](mailto:joshi.arati.12@gmail.com)
-* 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/aarti-joshi-link/)
-* 💻 GitHub: [Github](https://github.com/joshi-aarti/aarti)
-
-Feel free to reach out if you'd like to collaborate, connect, or just talk tech!
-
----
