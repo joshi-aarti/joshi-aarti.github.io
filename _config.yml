@@ -21,16 +21,16 @@ title                    : "Cloud & Calm"
 title_separator          : "-"
 subtitle                 : Tech, AI, and Life in Balance
 name                     : "Aarti Joshi"
-description              : "Welcome! I’m Arati Joshi — a DevOps and cloud platform engineer passionate about automation, AI, and building scalable systems. As a working mom and Vedic Astrology enthusiast, I believe in balancing high-performance tech work with mindfulness and continuous learning. This space is where I share practical insights, scripts, tutorials, and reflections from my journey across DevOps, AI, and life."
+description              : "Experienced cloud platform engineer specializing in DevOps, AWS, Azure, Python, and Spring Boot. Sharing AI projects, automation tutorials, and real-world engineering insights."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "joshi-aarti/aarti"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/Aarti_Linkedin.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : true
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -321,6 +321,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
+
