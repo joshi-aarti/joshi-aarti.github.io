@@ -1,11 +1,12 @@
 ---
 layout: single
-title: "Aarti Joshi"
+title: ""
 permalink: /
 author_profile: false
-classes: wide
+header:
+  overlay_image: /assets/images/banner_tall.png
+  overlay_filter: 0.3
 ---
-
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
 
 <div style="flex: 0 0 40%; max-width: 100%;">
