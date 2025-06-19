@@ -3,6 +3,10 @@ layout: single
 title: "Contact Me"
 permalink: /contact/
 author_profile: false
+header:
+  overlay_image: /assets/images/contact.jpg
+  overlay_filter: 0.3
+  caption: "Let us connect!"
 ---
 
 I’m always open to connecting — whether it's about DevOps, cloud engineering, AI projects, or simply exchanging ideas.

@@ -2,6 +2,10 @@
 title: "About Me"
 permalink: /about/
 layout: single
+header:
+  overlay_image: /assets/images/about.jpg
+  overlay_filter: 0.3
+  caption: "Just me"
 ---
 
 Hi! I’m Arati, a passionate cloud platform engineer with a strong background in designing scalable, secure, and automated infrastructure solutions across **Azure and AWS**. I have extensive experience working with **Spring Boot** for backend systems and **Python** for automation, scripting, and data-driven applications.
