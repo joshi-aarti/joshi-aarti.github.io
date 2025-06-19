@@ -327,3 +327,7 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
