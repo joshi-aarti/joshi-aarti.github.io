@@ -1,4 +1,10 @@
 
+---
+title: "Projects"
+permalink: /projects/
+layout: single
+---
+
 ### Blue-Green Deployment with Smart Routing on Amazon EKS
 
 **Role:** DevOps Engineer / CDN Team
