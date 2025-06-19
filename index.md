@@ -9,7 +9,7 @@ header:
 ---
 <div style="margin-top: 0;">
   <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
-    <div style="flex: 0 0 40%; max-width: 100%; padding-top: 5px;">
+    <div style="flex: 0 0 50%; max-width: 100%; padding-top: 50px;">
       <img src="/assets/images/me.jpg" alt="Aarti Joshi" style="width: 100%; border-radius: 12px;" />
     </div>
     <div style="flex: 1;">
