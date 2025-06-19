@@ -264,6 +264,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -313,10 +314,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: true

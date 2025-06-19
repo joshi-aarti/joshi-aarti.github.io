@@ -2,13 +2,19 @@
 title: "Blue-Green Deployment with Akamai"
 layout: home
 excerpt: "Zero-Downtime Deployments with Blue-Green Strategy"
+tags: ["DevOps", "Kubernetes", "AWS", "CDN", "Blue-Green Deployment", "Zero Downtime"]
 ---
 
+{% if page.tags %}
+<div class="page-tags">
+  <strong>Tags:</strong>
+  {% for tag in page.tags %}
+    <a href="/tags/#{{ tag | slugify }}" class="label label--info">{{ tag }}</a>{% unless forloop.last %} {% endunless %}
+  {% endfor %}
+</div>
+{% endif %}
+
 ## Achieving Zero-Downtime Deployments with Blue-Green Strategy and Smart Traffic Routing
-
-**Posted on:** 18-Jun-2025
-
-**Tags:** DevOps, Kubernetes, AWS, CDN, Blue-Green Deployment, Zero Downtime
 
 ---
 
