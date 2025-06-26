@@ -147,9 +147,9 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/joshi-aarti"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
