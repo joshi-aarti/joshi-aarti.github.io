@@ -5,7 +5,7 @@ excerpt: "AWS-based event-driven ETL pipeline for file loading and conversion wi
 tags: ["AWS", "ETL", "Step Functions", "S3", "EventBridge", "PostgreSQL", "DevOps"]
 ---
 
-{% include figure image_path="/assets/images/etl-tool-loader.png" alt="ETL tool loader architecture diagram" %}
+{% include figure image_path="/assets/images/etl-tool-loader.png" alt="ETL tool loader architecture diagram" popup=true %}
 
 This document describes an AWS-based, event-driven data processing pipeline for file loading and conversion. The design uses only AWS publicly available services and terminology to achieve **reusability**, **scalability**, and **performance**.
 
