@@ -8,6 +8,28 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Professional font stack (Source Sans 3 + system fallbacks)
+$pro-font-sans: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+html {
+  font-family: $pro-font-sans;
+}
+
+body {
+  font-family: $pro-font-sans;
+}
+
+h1, h2, h3, h4, h5, h6,
+.greedy-nav a,
+.archive__item-title,
+.page__title {
+  font-family: $pro-font-sans;
+}
+
+.page__content {
+  font-family: $pro-font-sans;
+}
+
 // Force taller header banner height
 .page__hero--overlay {
   min-height: 470px;  // 🔁 You can change this to 700px or more if needed
