@@ -1,6 +1,7 @@
 ---
 title: "Event-Driven Data Loader Architecture"
 layout: single
+date: 2025-09-01
 excerpt: "AWS-based event-driven ETL pipeline for file loading and conversion with Step Functions, S3, EFS, and PostgreSQL."
 tags: ["AWS", "ETL", "Step Functions", "S3", "EventBridge", "PostgreSQL", "DevOps"]
 ---

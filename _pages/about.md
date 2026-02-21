@@ -16,4 +16,12 @@ This site is a space where I share insights, tutorials, and reflections from my 
 
 ---
 
+### 📬 Let's Connect
 
+I'm always open to connecting — whether it's about DevOps, cloud engineering, AI projects, or simply exchanging ideas.
+
+* 📧 Email: [joshi.arati.12@gmail.com](mailto:joshi.arati.12@gmail.com)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aarti-joshi-link/)
+* 💻 GitHub: [GitHub](https://github.com/joshi-aarti/aarti)
+
+Feel free to reach out if you'd like to collaborate, connect, or just talk tech!

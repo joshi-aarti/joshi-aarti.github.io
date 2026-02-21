@@ -1,6 +1,7 @@
 ---
 title: "Blue-Green Deployment with Akamai"
 layout: home
+date: 2025-06-01
 excerpt: "Zero-Downtime Deployments with Blue-Green Strategy"
 tags: ["DevOps", "Kubernetes", "AWS", "CDN", "Blue-Green Deployment", "Zero Downtime"]
 ---
