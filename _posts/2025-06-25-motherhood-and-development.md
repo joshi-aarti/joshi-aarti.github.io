@@ -1,6 +1,6 @@
 ---
 title: "Merging Cultures, Motherhood, and Code: A Developer's Perspective"
-categories: [professional]
+categories: [reflections]
 tags:
   - WomenInTech
   - WorkingMoms
