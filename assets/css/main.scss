@@ -28,6 +28,7 @@ h1, h2, h3, h4, h5, h6,
 
 .page__content {
   font-family: $pro-font-sans;
+  font-size: 1.1em;   // slightly smaller than default (1.25em) for posts and projects
 }
 
 // Force taller header banner height
