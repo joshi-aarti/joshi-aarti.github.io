@@ -1,5 +1,6 @@
 ---
 title: "How I Finally Built My Portfolio Website (and You Can Too)"
+categories: [professional]
 excerpt: "After years of putting it off, I built my developer portfolio in just 5 hours — no fancy templates, no spending money, no stress. Here’s how I did it, and how you can too."
 tags: 
     - DeveloperJourney

@@ -1,5 +1,6 @@
 ---
 title: "When Best Practices Must Wait: Delivering Enhancements Under Pressure"
+categories: [professional]
 tags:
   - softwaredevelopment
   - programming

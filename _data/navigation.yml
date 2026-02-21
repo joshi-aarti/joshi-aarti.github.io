@@ -2,6 +2,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "Reflections"
+    url: /blogs/reflections/
+  - title: "Professional"
+    url: /blogs/professional/
   - title: "Blogs"
     url: /blogs/
   - title: "Projects"
