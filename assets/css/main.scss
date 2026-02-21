@@ -8,8 +8,8 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Professional font stack (Source Sans 3 + system fallbacks)
-$pro-font-sans: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+// Professional font stack (Inter + system fallbacks)
+$pro-font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 
 html {
   font-family: $pro-font-sans;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6,
 
 .page__content {
   font-family: $pro-font-sans;
-  font-size: 1.1em;   // slightly smaller than default (1.25em) for posts and projects
+  font-size: 0.875em;   // smaller, professional body text (~14px at 16px base)
 }
 
 // Force taller header banner height
